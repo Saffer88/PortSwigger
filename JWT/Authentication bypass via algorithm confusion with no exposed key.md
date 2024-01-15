@@ -2,7 +2,7 @@
 
 Primeramente se ingresa con las credenciales otorgadas para posteriormente guardar el JWT otorgado a dicho usuario
 
-![[noexposedkey1.png]]
+![[JWT/img/noexposedkey1.png]]
 
 Luego se repite el proceso , es decir, se desloguea y se vuelve a loguear con el mismo usuario para poder tener dos tokens distintos.
 
